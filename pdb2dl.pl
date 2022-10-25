@@ -1,3 +1,4 @@
+#converts pdb file into DL_POLY config file
 #!/usr/bin/perl
 
 $name=$ARGV[0];
